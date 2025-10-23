@@ -1,0 +1,5 @@
+{
+  "name": "AudioBook Creator",
+  "description": "An application to upload PDF and EPUB files, convert them to audio using Gemini's Text-to-Speech API, and listen to them. Features page range selection, batched audio generation, and a dark/light mode.",
+  "requestFramePermissions": []
+}
